@@ -3,3 +3,9 @@ More sample text.
 Testing an add off of a branch.
 
 Changes for master
+testing change 1
+testing change 2
+testing change 3
+testing change 4
+testing change 5
+testing change 6
