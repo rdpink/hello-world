@@ -1,6 +1,6 @@
-Some sample text here.  More sample text.
-More sample text.
-Testing an add off of a branch.
-
-Changes for master
-making some changes
+Some sample text here.  More sample text.
+More sample text.
+Testing an add off of a branch.
+
+Changes for master
+fajsdlfkj
