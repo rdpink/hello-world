@@ -1,6 +1,113 @@
-asdkjfdkjSome sample text here.  More sample text.
-More sample text.
-Testing an add off of a branch.
-
-Changes for master
-fajsdlfkj
+asdkjfdkjSome sample text here.  More sample text.
+
+Changes for master
+testing change 1
+testing change 2
+testing change 3
+testing change 4
+testing_change 5 change 1
+testing change 6
+Testing change 7
+This isa different line make a change
+change 2
+change 3
+change 4
+<<<<<<< HEAD
+=======
+Some sample text here.  More sample text.
+More sample text.
+Testing an add off of a branch.
+
+Changes for master
+testing change 1
+testing change 2
+testing change 3
+testing change 4
+testing_change 5 change 1
+testing change 6
+Testing change 7
+This isa different line make a change
+change 2
+change 3
+change 4
+Some sample text here.  More sample text.
+More sample text.
+Testing an add off of a branch.
+
+Changes for master
+testing change 1
+testing change 2
+testing change 3
+testing change 4
+testing_change 5 change 1
+testing change 6
+Testing change 7
+This isa different line make a change
+change 2
+change 3
+change 4
+Some sample text here.  More sample text.
+More sample text.
+Testing an add off of a branch.
+
+Changes for master
+testing change 1
+testing change 2
+testing change 3
+testing change 4
+testing_change 5 change 1
+testing change 6
+Testing change 7
+This isa different line make a change
+change 2
+change 3
+change 4
+Some sample text here.  More sample text.
+More sample text.
+Testing an add off of a branch.
+
+Changes for master
+testing change 1
+testing change 2
+testing change 3
+testing change 4
+testing_change 5 change 1
+testing change 6
+Testing change 7
+This isa different line make a change
+change 2
+change 3
+change 4
+Some sample text here.  More sample text.
+More sample text.
+Testing an add off of a branch.
+
+Changes for master
+testing change 1
+testing change 2
+testing change 3
+testing change 4
+testing_change 5 change 1
+testing change 6
+Testing change 7
+This isa different line make a change
+change 2
+change 3
+change 4
+Some sample text here.  More sample text.
+More sample text.
+Testing an add off of a branch.
+
+Changes for master
+testing change 1
+testing change 2
+testing change 3
+testing change 4
+testing_change 5 change 1
+testing change 6
+Testing change 7
+This isa different line make a change
+change 2
+change 3
+change 4
+
