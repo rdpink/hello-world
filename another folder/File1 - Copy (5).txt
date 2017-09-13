@@ -23,7 +23,39 @@ testing change 1
 testing change 2
 testing change 3
 testing change 4
-testing_change 5 change Djfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkf1
+testing_change 5 change 1
+testing change 6
+Testing change 7
+This isa different line make a change
+change 2
+change 3
+change 4
+Some sample text here.  More sample text.
+More sample text.
+Testing an add off of a branch.
+
+Changes for master
+testing change 1
+testing change 2
+testing change 3
+testing change 4
+testing_change 5 change 1
+testing change 6
+Testing change 7
+This isa different line make a change
+change 2
+change 3
+change 4
+Some sample text here.  More sample text.
+More sample text.
+Testing an add off of a branch.
+
+Changes for master
+testing change 1
+testing change 2
+testing change 3
+testing change 4
+testing_change 5 change 1
 testing change 6
 Testing change 7
 This isa different line make a change
@@ -72,38 +104,6 @@ testing change 2
 testing change 3
 testing change 4
 testing_change 5 change 1
-testing change 6
-Testing change 7
-ThisDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkf isa different line make a change
-change 2
-change 3
-change 4
-Some sample text here.  More sample text.
-More sample text.
-Testing an add off of a branch.
-
-Changes for master
-testing change 1
-testing change 2
-testing change 3
-testing change 4
-testing_change 5 change 1
-testing change 6
-Testing change 7
-This isa different line make a change
-change 2
-change 3
-change 4
-Some sample text here.  More sample text.
-More sample text.
-Testing an add off of a branch.
-
-Changes for master
-testing change 1
-testing change 2
-testing change 3
-testing change 4
-testingDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkfDjfadjsfjasd;fjkadsfaksdfljasdkf_change 5 change 1
 testing change 6
 Testing change 7
 This isa different line make a change
